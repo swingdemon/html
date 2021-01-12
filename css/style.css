@@ -20,9 +20,13 @@ h3 {
 footer {
 	text-align: right;
 }
-
-footer a {
+a {
 	text-decoration: none;
 	color: purple;
+}
+a:hover {
+	color: maroon;
+}
+footer a {
 	text-shadow: 5px 5px 5px;
 }
